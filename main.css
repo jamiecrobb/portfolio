@@ -1,0 +1,64 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+.navbar {
+    position: absolute;
+    top: 0px;
+    width: 100vw;
+}
+
+main {
+    margin: 2%;
+}
+
+#home {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+h1, #site-title {
+    font-size: 4em;
+    font-weight: 400;
+}
+
+#jamie {
+    color: #00394B;
+}
+
+#about {
+    /* height: 100vh; */
+    padding: 5%;
+}
+
+#about img {
+    width: 75%;
+    border-radius: 50%;
+    max-width: 300px;
+    margin-bottom: 30px;
+}
+
+#ageandtitle {
+    font-weight: bold;
+    font-size: 1.5em;
+}
+
+#about p {
+    font-size: 1.25em;
+    line-height: 1.7em;
+}
+
+#portfolio h2 {
+    text-align: center;
+}
+
+#portfolio img {
+    max-width: 100%;
+}
+
+#contact p {
+    font-size: 1.25em;
+    line-height: 1.7em;
+}
