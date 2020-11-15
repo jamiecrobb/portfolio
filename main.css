@@ -38,6 +38,10 @@ h1, #site-title {
     padding: 5%;
 }
 
+#headdiv {
+    text-align: center;
+}
+
 #about img {
     width: 75%;
     border-radius: 50%;
